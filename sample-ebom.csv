@@ -1,0 +1,33 @@
+S.No,Level,Parent Part No,Part No,Part Name,Part Description,Qty,UoM
+1,0,—,ASM-BIC-000,Bicycle,Complete Bicycle Assembly,1,Nos
+2,1,ASM-BIC-000,SYS-FRM-001,Frame System,Frame and Fork Assembly,1,Nos
+3,2,SYS-FRM-001,PRT-FRM-AL-01,Main Frame,Aluminum Frame with Welds,1,Nos
+4,2,SYS-FRM-001,PRT-FRK-AL-01,Front Fork,Suspension Fork,1,Nos
+5,2,SYS-FRM-001,STD-HED-01,Headset Bearing,Bearing Set for Fork,1,Set
+6,2,SYS-FRM-001,STD-BB-01,Bottom Bracket,BB for Crankset,1,Nos
+7,1,ASM-BIC-000,SYS-WHL-001,Wheel System,Front and Rear Wheels,1,Nos
+8,2,SYS-WHL-001,SUB-WHL-F-01,Front Wheel,700c Front Wheel,1,Nos
+9,3,SUB-WHL-F-01,PRT-RIM-700F,Front Rim,700c Aluminum Rim,1,Nos
+10,3,SUB-WHL-F-01,STD-HUB-F,Front Hub,Quick Release Hub,1,Nos
+11,3,SUB-WHL-F-01,STD-SPK-01,Spokes,14G Spokes,36,Nos
+12,2,SYS-WHL-001,SUB-WHL-R-01,Rear Wheel,700c Rear Wheel,1,Nos
+13,3,SUB-WHL-R-01,PRT-RIM-700R,Rear Rim,700c Aluminum Rim,1,Nos
+14,3,SUB-WHL-R-01,STD-HUB-R,Rear Hub,Cassette Hub,1,Nos
+15,3,SUB-WHL-R-01,STD-SPK-01,Spokes,14G Spokes,36,Nos
+16,2,SYS-WHL-001,STD-TYR-700,Tyre,700x25c Road Tyre,2,Nos
+17,2,SYS-WHL-001,STD-TUB-700,Inner Tube,700c Inner Tube,2,Nos
+18,1,ASM-BIC-000,SYS-DRV-001,Drivetrain System,Complete Drivetrain,1,Nos
+19,2,SYS-DRV-001,STD-CRK-01,Crankset,2x11 Speed Crankset,1,Set
+20,2,SYS-DRV-001,STD-CHN-01,Chain,11-speed Chain,1,Nos
+21,2,SYS-DRV-001,STD-CAS-01,Cassette,11-speed Cassette,1,Nos
+22,2,SYS-DRV-001,STD-RD-01,Rear Derailleur,11-speed Rear Der,1,Nos
+23,1,ASM-BIC-000,SYS-BRK-001,Brake System,Hydraulic Disc Brakes,1,Nos
+24,2,SYS-BRK-001,STD-DB-F,Front Disc Brake,Hydraulic Caliper Front,1,Nos
+25,2,SYS-BRK-001,STD-DB-R,Rear Disc Brake,Hydraulic Caliper Rear,1,Nos
+26,2,SYS-BRK-001,STD-ROT-160,Disc Rotor,160mm Rotor,2,Nos
+27,1,ASM-BIC-000,SYS-CTL-001,Control System,Handlebars and Controls,1,Nos
+28,2,SYS-CTL-001,STD-HDL-01,Handle Bar,Drop Bar 42cm,1,Nos
+29,2,SYS-CTL-001,STD-GRP-01,Handle Grip,Bar Tape,2,Nos
+30,1,ASM-BIC-000,SYS-SET-001,Seating System,Saddle and Seatpost,1,Nos
+31,2,SYS-SET-001,STD-STP-01,Seat Post,27.2mm Seatpost,1,Nos
+32,2,SYS-SET-001,STD-SAD-01,Saddle,Road Saddle,1,Nos
